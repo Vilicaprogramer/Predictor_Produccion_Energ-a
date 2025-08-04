@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#f5a623"         # Un amarillo solar (botones, sliders)
+backgroundColor = "#f9f9f9"      # Gris muy claro de fondo
+secondaryBackgroundColor = "#e0e0e0"  # Fondo para barras laterales
+textColor = "#000000"            # Texto negro
+font = "sans serif"
+
+[layout]
+wide = true
